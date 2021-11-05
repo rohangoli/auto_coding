@@ -1,4 +1,8 @@
 dataset/source_code/
+dataset/Python/
+dataset/Java/
+__pycache__/
+runs/
 model/
 venv/
 .idea/

@@ -1,0 +1,10 @@
+
+Currently Loaded Modules:
+  1) anaconda3/2021.05-gcc/8.3.1                7) openmpi/4.0.5-gcc/8.3.1-ucx  13) hwloc/1.11.11-gcc/8.4.1               19) openjdk/11.0.2-gcc/8.3.1               25) libpng/1.6.37-gcc/8.3.1
+  2) cuda/11.0.3-gcc/7.5.0                      8) zlib/1.2.11-gcc/8.4.1        14) fftw/3.3.8-gcc/8.4.1-mpi              20) openblas/0.3.10-gcc/8.3.1              26) hdf5/1.10.6-gcc/8.3.1-mpi-cuda10_2
+  3) cudnn/8.0.0.180-11.0-linux-x64-gcc/7.5.0   9) xz/5.2.4-gcc/8.4.1           15) ffmpeg/4.2.2-gcc/8.3.1                21) netcdf-cxx/4.2-gcc/8.3.1-cuda10_2      27) glib/2.64.3-gcc/8.3.1
+  4) cuda/10.2.89-gcc/8.3.1                    10) numactl/2.0.14-gcc/8.4.1     16) vtk/9.0.0-gcc/8.3.1-mpi-cuda10_2      22) netcdf-c/4.7.3-gcc/8.3.1-mpi-cuda10_2  28) eigen/3.3.7-gcc/8.3.1
+  5) nccl/2.7.3-1-gcc/8.3.1-cuda10_2           11) libpciaccess/0.16-gcc/8.4.1  17) protobuf/3.11.2-gcc/8.3.1             23) mesa/18.3.6-gcc/8.3.1-cuda10_2         29) opencv/4.2.0-gcc/8.3.1-openmp-cuda10_2-nvidia_K
+  6) cuda/11.1.0-gcc/8.3.1                     12) libiconv/1.16-gcc/8.4.1      18) openmpi/3.1.6-gcc/8.3.1-cuda10_2-ucx  24) libxml2/2.9.10-gcc/8.3.1
+
+
